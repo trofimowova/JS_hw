@@ -111,4 +111,4 @@ console.log(mathOperation(2, 3, "summ"))
 }
 console.log(power(3,5))//243
 console.log(power(2,3))//8
-console.log(power(10,3))
+console.log(power(10,2))//100

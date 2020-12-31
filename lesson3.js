@@ -1,5 +1,5 @@
-//1.
 
+//1.
 let n = 100;
 let i = 2
 while (i <= n) {
@@ -23,8 +23,8 @@ while (i <= n) {
 
 
 
-
-
+/*
+//2
 var bucket = [["book",300],["table",500],["pen",50],["lamp",150]]
 function countBasketPrice(arr){
     var cost=0
@@ -49,3 +49,4 @@ for(let i=0;i<21;(i++)){
     console.log(pyramid.join(''))    
 }
 
+*/
